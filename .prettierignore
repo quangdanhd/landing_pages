@@ -1,12 +1,7 @@
 /node_modules
 package-lock.json
-*/bootstrap.min.css
+*.min.*
 */bootstrap-icons.css
-*/bootstrap.bundle.min.js
-*/glightbox.min.css
-*/glightbox.min.js
-*/isotope.pkgd.min.js
 */purecounter_vanilla.js
-*/swiper-bundle.min.css
-*/swiper-bundle.min.js
 **/vendor
+vue_calculator
