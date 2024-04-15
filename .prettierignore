@@ -6,3 +6,4 @@ package-lock.json
 **/vendor
 vue_calculator
 vue_calendar
+vue_chat_group
